@@ -10,8 +10,11 @@ This project is a Machine Learning based Gender Detection System that predicts g
 Gender-Detection-ML/
 │
 ├── data.csv                   # Dataset file
+
 ├── gender_detection.ipynb     # Jupyter Notebook (Main Project File)
+
 ├── gender_rf_model.pkl        # Saved Trained Model
+
 ├── README.md                  # Project Documentation
 
 
